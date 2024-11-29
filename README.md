@@ -1,4 +1,4 @@
-shows the current network adaper and the current dns
+shows the current network adaper and the current dns /n
 you can choose beetween adapters to change dns ( selects the current adapter by default )
 
 there are 11 options to choose :
